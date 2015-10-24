@@ -5,5 +5,7 @@ Thanks a lot.
 
 https://developers.google.com/chart/?csw=1
 
-![](https://github.com/TrungSpy/PieChart/blob/master/device-2015-10-25-021953.png =500x750)
+
+![3DPieChart](./pic/pic1s.png =250x)
+
 
