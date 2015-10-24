@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     final static String urlGoogleChart
             = "http://chart.apis.google.com/chart";
     final static String urlp3Api
-            = "?cht=p3&chs=400x150";
+            = "?cht=p3&chs=300x150";
 
 
     EditText inputA, inputB, inputC;
