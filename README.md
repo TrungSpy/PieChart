@@ -4,3 +4,6 @@ This is a sample code that will be help you to understand the usage of Google Ch
 Thanks a lot.
 
 https://developers.google.com/chart/?csw=1
+
+![](https://github.com/TrungSpy/PieChart/blob/master/device-2015-10-25-021953.png =500x750)
+
